@@ -53,7 +53,7 @@ The output binary will be available in the `bin/` directory.
 
 ## Having a Problem?
 
-<img width="500" alt="Screenshot_20260626_220315" src="https://github.com/user-attachments/assets/24df0582-3b8d-4b10-b95d-7da1454f613d" />
+<img width="500" src="https://github.com/user-attachments/assets/24df0582-3b8d-4b10-b95d-7da1454f613d" />
 
 ##### null is not an object (evaluating 'instance.\_\_vrv_devtools = info')
 
