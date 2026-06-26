@@ -1,6 +1,6 @@
-# Wails 3 Template for Nuxt 4
+# Wails 3 Template With Nuxt 4
 
-A minimal [Nuxt 4](https://nuxt.com/) template for [Wails 3](https://v3.wails.io/), combining the developer experience of Nuxt with the amazing performance of Wails to build cross-platform desktop GUI apps.
+A minimal [Wails 3](https://v3.wails.io/) template based on [Nuxt 4](https://nuxt.com/) ecosystem, combining the developer experience of Nuxt with the amazing performance of Wails to build cross-platform desktop GUI apps.
 
 <img width="1160" height="789" alt="Wails 3 Template for Nuxt 4" src="https://github.com/user-attachments/assets/c3793c37-a516-4fe1-a935-ea4e6482fb7d" />
 
