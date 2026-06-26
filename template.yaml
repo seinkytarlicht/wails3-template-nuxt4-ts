@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://v3.wails.io/schemas/template.v3.json
+name: "Wails 3 Template for Nuxt 4"
+shortname: "wails3-template-nuxt4-ts"
+author: "seinkytarlicht"
+description: "Minimal Wails 3 Template for Nuxt 4"
+helpurl: "https://github.com/seinkytarlicht/wails3-template-nuxt4-ts"
+version: v0.0.1
+wailsVersion: 3
+typescript: true
