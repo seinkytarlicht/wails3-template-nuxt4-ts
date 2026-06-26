@@ -4,6 +4,13 @@ A minimal [Nuxt 4](https://nuxt.com/) template for [Wails 3](https://v3.wails.io
 
 <img width="1160" height="789" alt="Wails 3 Template for Nuxt 4" src="https://github.com/user-attachments/assets/c3793c37-a516-4fe1-a935-ea4e6482fb7d" />
 
+## Tech Stack
+
+| Module   | Technology |
+| -------- | ---------- |
+| Desktop  | Wails 3    |
+| Frontend | Nuxt 4     |
+
 ## Prerequisites
 
 Before getting started, make sure you have the following installed:
@@ -30,18 +37,25 @@ wails3 task dev
 
 ## Build
 
-Compile and build the production app:
+Compile and build app:
 
 ```bash
 wails3 task build
+```
+
+For Production:
+
+```bash
+wails3 task package
 ```
 
 The output binary will be available in the `bin/` directory.
 
 ## Having a Problem?
 
-### null is not an object (evaluating 'instance.__vrv_devtools = info')
 <img width="500" alt="Screenshot_20260626_220315" src="https://github.com/user-attachments/assets/24df0582-3b8d-4b10-b95d-7da1454f613d" />
+
+##### null is not an object (evaluating 'instance.\_\_vrv_devtools = info')
 
 if you have a problem like that, try to reload the browser in the window. Right click in the window and reload. If not fixed, try to disable Nuxt's Dev Tools
 

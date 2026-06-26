@@ -16,6 +16,11 @@ export default defineNuxtConfig({
   devServer: {
     host: "127.0.0.1",
   },
+  vite: {
+    optimizeDeps: {
+      include: ["@vue/devtools-core", "@vue/devtools-kit", "@wailsio/runtime"],
+    },
+  },
   imports: {
     dirs: ["../bindings/**"],
   },
