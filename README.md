@@ -17,7 +17,7 @@ Before getting started, make sure you have the following installed:
 ### Initialize from Template
 
 ```bash
-wails3 init -n "Your Project Name" -t github.com/YOUR_USERNAME/YOUR_REPO
+wails3 init -n "Your Project Name" -t https://github.com/seinkytarlicht/wails3-template-nuxt4-ts
 ```
 
 ## Development
