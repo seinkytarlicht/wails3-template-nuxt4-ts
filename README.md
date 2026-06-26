@@ -2,9 +2,7 @@
 
 A minimal [Nuxt 4](https://nuxt.com/) template for [Wails 3](https://v3.wails.io/), combining the developer experience of Nuxt with the amazing performance of Wails to build cross-platform desktop GUI apps.
 
-## Screenshot
-
-> Screenshot will be added soon
+<img width="1160" height="789" alt="Wails 3 Template for Nuxt 4" src="https://github.com/user-attachments/assets/c3793c37-a516-4fe1-a935-ea4e6482fb7d" />
 
 ## Prerequisites
 
@@ -42,9 +40,14 @@ The output binary will be available in the `bin/` directory.
 
 ## Having a Problem?
 
-> Troubleshooting guide will be added soon.
+### null is not an object (evaluating 'instance.__vrv_devtools = info')
+<img width="500" alt="Screenshot_20260626_220315" src="https://github.com/user-attachments/assets/24df0582-3b8d-4b10-b95d-7da1454f613d" />
 
-In the meantime, feel free to [open an issue](../../issues) and describe your problem.
+if you have a problem like that, try to reload the browser in the window. Right click in the window and reload. If not fixed, try to disable Nuxt's Dev Tools
+
+idk why that happens, it might be related to Nuxt's DevTools.
+
+> In the meantime, feel free to [open an issue](../../issues) and describe your problem.
 
 ## Further Help
 
