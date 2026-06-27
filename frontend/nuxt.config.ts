@@ -21,6 +21,8 @@ export default defineNuxtConfig({
       include: ["@vue/devtools-core", "@vue/devtools-kit", "@wailsio/runtime"],
     },
   },
+  // Auto Imports
+  // Binding Wails Service to Nuxt, Now can use Service without importing file
   imports: {
     dirs: ["../bindings/**"],
   },
