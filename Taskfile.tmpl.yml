@@ -1,5 +1,7 @@
 version: "3"
 
+dotenv: ['.env']
+
 vars:
   APP_NAME: "{{.BinaryName}}"
   BIN_DIR: "bin"
