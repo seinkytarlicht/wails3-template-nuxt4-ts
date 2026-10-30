@@ -43,7 +43,7 @@ Compile and build app:
 wails3 task build
 ```
 
-For Production:
+Packaging:
 
 ```bash
 wails3 task package
@@ -53,15 +53,7 @@ The output binary will be available in the `bin/` directory.
 
 ## Having a Problem?
 
-<img width="500" src="https://github.com/user-attachments/assets/24df0582-3b8d-4b10-b95d-7da1454f613d" />
-
-##### null is not an object (evaluating 'instance.\_\_vrv_devtools = info')
-
-if you have a problem like that, try to reload the browser in the window. Right click in the window and reload. If not fixed, try to disable Nuxt's Dev Tools
-
-idk why that happens, it might be related to Nuxt's DevTools.
-
-> In the meantime, feel free to [open an issue](../../issues) and describe your problem.
+Feel free to [open an issue](../../issues) and describe your problem.
 
 ## Further Help
 
