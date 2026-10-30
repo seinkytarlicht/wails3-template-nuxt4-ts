@@ -1,15 +1,15 @@
-# Wails 3 Template With Nuxt 4
+# Wails v3 Template With Nuxt v4
 
-A minimal [Wails 3](https://v3.wails.io/) template based on [Nuxt 4](https://nuxt.com/) ecosystem, combining the developer experience of Nuxt with the amazing performance of Wails to build cross-platform desktop GUI apps.
+A minimal [Wails v3](https://v3.wails.io/) template based on [Nuxt v4](https://nuxt.com/) ecosystem, combining the developer experience of Nuxt with the amazing performance of Wails to build cross-platform desktop GUI apps.
 
-<img width="1160" height="789" alt="Wails 3 Template for Nuxt 4" src="https://github.com/user-attachments/assets/c3793c37-a516-4fe1-a935-ea4e6482fb7d" />
+<img width="1160" height="789" alt="Wails v3 Template for Nuxt v4" src="https://github.com/user-attachments/assets/c3793c37-a516-4fe1-a935-ea4e6482fb7d" />
 
 ## Tech Stack
 
 | Module   | Technology |
 | -------- | ---------- |
-| Desktop  | Wails 3    |
-| Frontend | Nuxt 4     |
+| Desktop  | Wails v3   |
+| Frontend | Nuxt v4    |
 
 ## Prerequisites
 
@@ -57,8 +57,8 @@ Feel free to [open an issue](../../issues) and describe your problem.
 
 ## Further Help
 
-- [Wails 3 Documentation](https://v3.wails.io/)
-- [Nuxt 4 Documentation](https://nuxt.com/docs)
+- [Wails v3 Documentation](https://v3.wails.io/)
+- [Nuxt v4 Documentation](https://nuxt.com/docs)
 - [Wails Community Discord](https://discord.gg/JDdSxwjhGf)
 
 ## License
